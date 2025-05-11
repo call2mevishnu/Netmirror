@@ -6,10 +6,21 @@
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
+
+  
   {
     "id": "49818cb44777cd7e",
-    "username": "dinku",
-    "password": "dinku",
+    "username": "fuck",
+    "password": "fuck",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+
+
+  {
+    "id": "android_device_id_2",
+    "username": "user2",
+    "password": "pass2",
     "expiresAt": "2025-11-30",
     "allowOffline": false
   }
